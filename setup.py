@@ -34,7 +34,7 @@ setuptools.setup(
         #Another packages dependencies
         install_requires=[
             "pytest==5.3.1",
-            "selenium==3.141.0",
+            "selenium==3.14.1",
             "splinter==0.10.0",
             ],
 
