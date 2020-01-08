@@ -1,0 +1,7 @@
+README.md
+setup.py
+WATF.egg-info/PKG-INFO
+WATF.egg-info/SOURCES.txt
+WATF.egg-info/dependency_links.txt
+WATF.egg-info/requires.txt
+WATF.egg-info/top_level.txt

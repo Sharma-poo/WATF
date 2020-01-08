@@ -1,0 +1,13 @@
+Metadata-Version: 1.2
+Name: WATF
+Version: 0.0.1
+Summary: Web Application Testing Framework
+Home-page: https://github.com/Sharma-poo/WATF.git
+Author: Pooja Sharma
+Author-email: pooja.sharma@atlascopco.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Development Status :: 3 - Alpha
+Requires-Python: >=3.6
